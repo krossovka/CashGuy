@@ -39,7 +39,7 @@
                     Console.WriteLine("Please enter an amount (or a blank line to exit)");
                 }
             }
-
+            Console.WriteLine("The house always win");
         }
     }
 }
